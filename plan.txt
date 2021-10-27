@@ -1,0 +1,9 @@
+Message generator program -
+
+Every time a user runs the program they should get a new randomized output. Message that it outputs should be made up of at least three different pieces of data. (I think this means that message would be like...."This coming ${month} you will ${task} because you ${cause}" or something like that.   Or...Why did the ${animal} ${verb} the ${noun}?  To ${punchline}. So that the program is actually doing some work, instead of just having a list of prewritten messages)
+
+What is my end result?
+
+I think I'd like to go with the dumb joke version. The user will run the program, which will output a setup and a punchline.
+
+It will be built with Javascript. This might be a good opportunity to learn how to put that script into an html file with some css, just to learn how to link all that stuff together. It could be simple enough that it's not overwhelming. I'll need to figure out how to set up the git repo stuff again. But I can do that. This is the scope. I'm reluctant to set a timeline because I might have to stop to go do bootcamp stuff. This is the plan at the moment. I should set up the git repo stuff first...
